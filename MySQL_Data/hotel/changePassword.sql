@@ -1,0 +1,8 @@
+UPDATE `hotel`.`account` SET `login` = 'user1', `password` = '69e95473a48b43dfbff9fbcf45a2bb8188973d6f7f336dc171770fa3693202285b08ac2917548bbb820743b6df3c55949ecdd363222cdedb817d55d7cf' WHERE (`id` = '3');
+UPDATE `hotel`.`account` SET `login` = 'user2', `password` = '40123119ace44a246c8e20b6566662b658381c107bd2717c14ba8ee44a2321f8e37b38aff79b35f27d25c5dbb9d55355c6e781e323f83e062ef3bf257e1b1' WHERE (`id` = '4');
+UPDATE `hotel`.`account` SET `login` = 'user3', `password` = 'bb9a772999891b74a9bed1aa9b9faa1c5f1cc1b8ffd5c9b157d1bdb6ed5d644ca827ac3afc3d1baa4a74e2a16f6ea3ac8db6737814fbb32b3ba40fea722ff' WHERE (`id` = '5');
+UPDATE `hotel`.`account` SET `login` = 'user4', `password` = '767683e4d037f3881d37c9b0b58fea2aafb88dc2bed3d26eb4d0d029a6e488c36918f91e7087348cff2156c1fd35382d676ec478f24f4a4c01851df932' WHERE (`id` = '6');
+UPDATE `hotel`.`account` SET `login` = 'user5', `password` = 'b3871926e19aacbc52c661aa295a5d62694ea45a14be78eaea554b7f5cf247e590b15b3e777507ed1f408ccc99ca8b4c99c5ae49ea0ab98fec1c16b1' WHERE (`id` = '7');
+UPDATE `hotel`.`account` SET `login` = 'user6', `password` = 'd239845f2acd24723dbbd472ddc4be48cde9b36a76bac087b17549b993373cad7bcb44c9dfcce72392c8486b252c63a0753a8960b675694c811c612da9e8b' WHERE (`id` = '8');
+UPDATE `hotel`.`account` SET `login` = 'user7', `password` = 'bb48376a2bcfb12e3cae255cca979431312404b11a2e2287c9baf7359e0e4b66b28139a5a37d2d81a157f7967b1b4c3dc522a46abfe9ea11d4be4a1e869f4' WHERE (`id` = '9');
+UPDATE `hotel`.`account` SET `login` = 'user', `password` = '6ff8d1c924335b88aac6773767b147495bbfec1beb028ddcbe5c35256badd1f71a950908ce9e292b0bcccf0a2fc58f6fd3b8b8f4fa6bcdce899a6a1da0ec99' WHERE (`id` = '2');

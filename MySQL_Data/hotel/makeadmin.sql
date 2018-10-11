@@ -1,0 +1,1 @@
+UPDATE `hotel`.`account` SET `login` = 'admin', `password` = '90a3d5e5e8bd5fd4acfaf86b304fa4e4bb7172238a19df25737a71e9e260201fbc6a19a0eee1f84d1e9ab443ee9aaabd9d4a1b5d2bb4c1813767adfdb144250' WHERE (`id` = '1');
